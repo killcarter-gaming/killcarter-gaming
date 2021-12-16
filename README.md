@@ -8,3 +8,5 @@
 - 📫 How to reach me: ... https://discord.gg/YS3jQMF
 - 😄 Pronouns: ... many
 - ⚡ Fun fact: ... school never ends!
+
+licenced under [GNU V3](licence).
