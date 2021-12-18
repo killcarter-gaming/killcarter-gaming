@@ -9,4 +9,4 @@
 - 😄 Pronouns: ... many
 - ⚡ Fun fact: ... school never ends!
 
-licenced under [GNU V3](licence).
+licenced under [ADPL-SA](licence).
